@@ -1,0 +1,11 @@
+<Creator xsi:type="Device_t">
+<Name>vívoactive 5</Name>
+  <UnitId>3454992066</UnitId>
+       <ProductID>4426</ProductID>
+        <Version>
+          <VersionMajor>5</VersionMajor>
+          <VersionMinor>15</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
