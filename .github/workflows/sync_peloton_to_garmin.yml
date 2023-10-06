@@ -45,9 +45,9 @@ jobs:
             "CloseWindowOnFinish": true
           },
           "Format": {
-            "Fit": true,
+            "Fit": false,
             "Json": false,
-            "Tcx": false,
+            "Tcx": true,
             "SaveLocalCopy": ${{ github.event.inputs.saveLocalCopy || false }},
             "IncludeTimeInHRZones": false,
             "IncludeTimeInPowerZones": false,
