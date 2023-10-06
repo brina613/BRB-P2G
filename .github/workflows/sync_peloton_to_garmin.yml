@@ -59,7 +59,7 @@ jobs:
           },
           "Garmin": {
             "Upload": true,
-            "FormatToUpload": "fit",
+            "FormatToUpload": "tcx",
             "UploadStrategy": 2
           },
           "Observability": {
